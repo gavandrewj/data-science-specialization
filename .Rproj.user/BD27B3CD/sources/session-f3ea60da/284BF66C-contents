@@ -1,0 +1,31 @@
+
+
+#### the following code does this thing ####
+
+###### trhis is a nest #####
+
+print("Welcome to the Data Science Specialization!")
+
+"Welcome to the Data Science Specialization!"
+
+
+my_dataset = data.frame(
+  
+  var_one = c(1,2,3,4,5),
+  
+  var_two = 15:19
+  
+)
+
+print(my_dataset)
+
+
+my_dataset
+
+
+
+
+
+
+
+#### the following code does this thing ####
