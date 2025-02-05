@@ -1,0 +1,19 @@
+#### Task 1 ####
+my_matrix = matrix(
+  data = 1:9,
+  nrow = 3,
+  ncol = 3
+)
+
+apply(
+  my_matrix,
+  1,
+  sum
+)
+
+apply(
+  my_matrix,
+  2,
+  mean
+)
+
