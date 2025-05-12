@@ -1,0 +1,33 @@
+respondent_id,name,age_and_gender,location,address,Q1_2021_score,Q2_2021_score,notes,phone_number
+R001,"Alice, F",31F,Region2 - ED29,Suddie,93,95,Excellent performance,608 9318
+R002,"Bob, M",54M,Region1 - ED60,Mabarumma,95,88,,+592 612 4205
+R003,"Isaac, M",52M,Region3 - ED58,Leonora,90,75,,5926801577
+R004,"Eli, M",58M,Region2 - ED81,Suddie,64,75,Missing Q2,+592 663 5770
+R005,"Fiona, F",45F,Region3 - ED11,Leonora,84,73,Responded late,+592 682 9151
+R006,"George, M",51M,Region2 - ED70,Huist T'Dieren,73,84,,+592 623 6650
+R007,"Alice, F",49F,Region2 - ED1,Charity,84,86,,5926398855
+R008,"Isaac, M",39M,Region2 - ED29,Charity,61,85,,5926952635
+R009,"Charlie, M",54M,Region1 - ED80,Imbotero,,96,,+592 631 1797
+R010,"Alice, F",30F,Region3 - ED55,Leonora,71,,Resigned,644-9660
+R011,"Fiona, F",38F,Region2 - ED42,Charity,84,86,Missing Q2,+592 659 6251
+R012,"Bob, M",55M,Region1 - ED96,Imbotero,82,64,,+592 606 3156
+R013,"Alice, F",26F,Region1 - ED26,Mabaruma,75,,,6776039
+R014,"Bob, M",38M,Region2 - ED90,Charity,70,67,Excellent performance,699 3620
+R015,"Eli, M",31M,Region3 - ED4,Wakenaam,84,72,Responded late,665 5900
+R016,"Julia, F",40F,Region1 - ED90,Port Kaituma,98,96,Responded late,16277501
+R017,"Fiona, F",59F,Region2 - ED85,Charity,81,,Resigned,616 4686
+R018,"Hannah, F",31F,Region2 - ED47,Sudddee,89,87,Excellent performance,+592 618 2256
+R019,"Isaac, M",42M,Region3 - ED69,Vergenoegen,97,75,Responded late,607 8711
+R020,"Eli, M",53M,Region1 - ED97,Kumaka,84,91,Missing Q2,5926002805
+R021,"Charlie, M",56M,Region1 - ED46,Port Kaituma,98,77,,916472387
+R022,"Alice, F",58F,Region1 - ED11,Morawhanna,91,75,,6305407
+R023,"Hannah, F",56F,Region2 - ED3,Anna Regina,85,79,,624-2720
+R024,"Julia, F",48F,Region2 - ED71,Good Hope,95,89,Missing Q2,674-1296
+R025,"Eli, M",41M,Region1 - ED16,Mabarumma,67,71,Excellent performance,5926737135
+R026,"Denise, F",55F,Region2 - ED93,Good Hope,93,66,Excellent performance,16074637
+R027,"Eli, M",39M,Region2 - ED23,Charity,,77,Responded late,696-8790
+R028,"Alice, F",60F,Region2 - ED90,Suddie,91,,Responded late,16826097
+R029,"Julia, F",43F,Region2 - ED62,Huist T'Dieren,63,90,Responded late,6445790
+R030,"Bob, M",50M,Region2 - ED10,Good Hope,63,96,Missing Q2,657 1015
+respondent_id,name,age_and_gender,location,address,Q1_2021_score,Q2_2021_score,notes,phone_number
+Source: Internal survey 2023,,,,,,,,
